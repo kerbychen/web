@@ -1,15 +1,16 @@
+remote_theme: ankitsultana/researcher@gem
+
 title: Researcher
-url: "https://kerbychen.github.io"
+url: ""
 baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://kerbychen.github.io"
+footer_url: ""
 footer_text: "Web Page"
 
 sass:
